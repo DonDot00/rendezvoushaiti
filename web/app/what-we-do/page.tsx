@@ -38,14 +38,11 @@ const programs = [
 
 const galleryImages = [
   { src: "/img/kidhandheart.jpg",    alt: "Child holding a heart" },
-  { src: "/img/kidsdrawing4.jpg",    alt: "Kids drawing" },
   { src: "/img/kidscolor.jpg",       alt: "Children coloring" },
   { src: "/img/housecleaning.jpeg",  alt: "Community house cleaning" },
   { src: "/img/arts_crafts2.jpg",    alt: "Arts and crafts session" },
-  { src: "/img/rdvh-nutela.jpeg",    alt: "Food distribution" },
   { src: "/img/house.jpeg",          alt: "Foyer building" },
   { src: "/img/housegrouppicw.jpeg", alt: "Group photo at the Foyer" },
-  { src: "/img/kidsdrawing2.jpg",    alt: "Children drawing" },
   { src: "/img/school.jpg",          alt: "School program" },
   { src: "/img/computerkids.jpg",    alt: "Computer literacy class" },
   { src: "/img/arts_crafts.jpg",     alt: "Arts and crafts" },

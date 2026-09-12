@@ -27,7 +27,7 @@ export default function WhyWeNeedPage() {
       <HeroBanner
         title="Why We Need"
         subtitle="Understanding the ongoing situation in Haiti"
-        backgroundImage="/img/7522098-orig.jpeg"
+        backgroundImage="/img/7522098-orig.jpg"
       />
 
       <section className="py-20 bg-stone-50">

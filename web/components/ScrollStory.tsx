@@ -10,7 +10,7 @@ const chapters = [
     year: "2010",
     heading: "A Country in Crisis",
     body: "A devastating earthquake struck Haiti, killing over 200,000 people and displacing millions. The world watched — and a French instructor at Loyola University Maryland decided to act.",
-    image: "/img/7522098-orig.jpeg",
+    image: "/img/7522098-orig.jpg",
     accent: "from-[#00209F]",
   },
   {

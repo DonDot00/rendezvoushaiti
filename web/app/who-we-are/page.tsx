@@ -73,7 +73,7 @@ export default function WhoWeArePage() {
       <HeroBanner
         title="Who We Are"
         subtitle="The people behind Rendez-vous: Haiti's mission of solidarity"
-        backgroundImage="/img/7522098-orig.jpeg"
+        backgroundImage="/img/7522098-orig.jpg"
       />
 
       {/* Board members */}

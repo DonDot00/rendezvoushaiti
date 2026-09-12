@@ -7,7 +7,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const slides = [
-  { word: "Solidarity",   image: "/img/7522098-orig.jpeg" },
+  { word: "Solidarity",   image: "/img/7522098-orig.jpg" },
   { word: "Education",    image: "/img/school.jpg" },
   { word: "Community",    image: "/img/housegrouppicw.jpeg" },
   { word: "Hope",         image: "/img/savellwithKids.jpeg" },
